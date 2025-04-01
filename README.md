@@ -6,8 +6,8 @@
 - . : | Absence vs existence |
 
 
-- ' " "' | Up |
-- "' " ' | Down |
+- ' " "' | Move up |
+- "' " ' | Move down |
 - - -    | Threat? |
 - - -
 **Evolution states**
