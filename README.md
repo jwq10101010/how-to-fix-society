@@ -5,8 +5,8 @@
 - . : | Absence vs existence |
 
 
-- ' " "' | Traversing dimensions |
-- "' " ' |
+- ' " "' | Up |
+- "' " ' | Down |
 - - -    |
 - - -
 **Evolution states**
