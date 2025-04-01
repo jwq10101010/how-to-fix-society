@@ -2,14 +2,15 @@
 - - -
 . :
 - - -
-' 
-"
-"'
+- ' " "'
+- "' " '
 - - -
 - 
 - o
 - on
-- onf
+- on o
+- on of
+- on off
 - - -
 
 # How to fix society
