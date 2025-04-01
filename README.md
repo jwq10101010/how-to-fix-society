@@ -9,7 +9,7 @@ Establish prompt framework
  
 - - | Dich**o**t**o**my |
 
-- . : | Absence vs existence |
+- . : | Absence vs **exist**ence |
 
 
 - ' " "' | Move up |
