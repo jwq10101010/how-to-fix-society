@@ -12,9 +12,9 @@ Establish prompt framework
 - . : | Absence vs **exist**ence |
 
 
-- ' " "' | Move up |
-- "' " ' | Move down |
-- - -    | Threat? |
+- ' " "' | Move **up** |
+- "' " ' | Move **down** |
+- - -    | Threat**?** |
 - - -
 **Evolution states**
 -        |
