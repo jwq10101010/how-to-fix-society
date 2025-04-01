@@ -16,6 +16,14 @@ Traversing dimensions
 - on of
 - on off
 - - -
+**Loop ad infinitum**
+- (Time)
+- (Time, Space)
+- (Time, Space, PITAS)
+- (Time, Space, PITAS, Universe)
+- (Time, Space, PITAS, Universe, Server)
+- (Time, Space, PITAS, Universe, Server, Server-1-Time)
+- - -
 
 # How to fix society
 A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
