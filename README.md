@@ -7,7 +7,7 @@ Establish prompt framework
 **Concepts**
 - - -
  
-- - | Dichotomy |
+- - | Dich**o**t**o**my |
 
 - . : | Absence vs existence |
 
