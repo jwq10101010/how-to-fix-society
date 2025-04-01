@@ -1,10 +1,14 @@
+Dichotomy
 - -
 - - -
-. :
+Absence vs existence
+- . :
 - - -
+Traversing dimensions
 - ' " "'
 - "' " '
 - - -
+**Evolution states**
 - 
 - o
 - on
