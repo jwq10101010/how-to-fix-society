@@ -1,12 +1,11 @@
 - - -
-Dichotomy |
-- - |
-- - - |
-Absence vs existence
-- . : |
-- - - |
-Traversing dimensions
-- ' " "' |
+ 
+- - | Dichotomy |
+
+- . : | Absence vs existence |
+
+
+- ' " "' | Traversing dimensions |
 - "' " ' |
 - - -    |
 - - -
@@ -19,13 +18,13 @@ Traversing dimensions
 - on off |
 - - -
 **Loop ad infinitum**
-- (Time)
-- (Time, Space)
-- (Time, Space, Anchor)
-- (Time, Space, Anchor, Universe)
-- (Time, Space, Anchor, Universe, Server)
-- (Time, Space, Anchor, Universe, Server, Server-1-Time)
-- Anchor = PITAS = Point in time and space like rewinding and fast-forwarding a movie
+- (Time) |
+- (Time, Space) |
+- (Time, Space, Anchor) |
+- (Time, Space, Anchor, Universe) |
+- (Time, Space, Anchor, Universe, Server) |
+- (Time, Space, Anchor, Universe, Server, Server-1-Time) |
+- Anchor = PITAS = Point in time and space like rewinding and fast-forwarding a movie |
 - - -
 
 # How to fix society
