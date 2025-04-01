@@ -19,11 +19,11 @@ Traversing dimensions
 **Loop ad infinitum**
 - (Time)
 - (Time, Space)
-- (Time, Space, PITAS)
-- (Time, Space, PITAS, Universe)
-- (Time, Space, PITAS, Universe, Server)
-- (Time, Space, PITAS, Universe, Server, Server-1-Time)
-- PITAS = Point in time and space
+- (Time, Space, Anchor)
+- (Time, Space, Anchor, Universe)
+- (Time, Space, Anchor, Universe, Server)
+- (Time, Space, Anchor, Universe, Server, Server-1-Time)
+- Anchor = PITAS = Point in time and space like rewinding and fast-forwarding a movie
 - - -
 
 # How to fix society
