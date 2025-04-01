@@ -23,6 +23,7 @@ Traversing dimensions
 - (Time, Space, PITAS, Universe)
 - (Time, Space, PITAS, Universe, Server)
 - (Time, Space, PITAS, Universe, Server, Server-1-Time)
+- PITAS = Point in time and space
 - - -
 
 # How to fix society
