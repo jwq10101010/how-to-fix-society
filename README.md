@@ -1,6 +1,9 @@
 **TODO**
 Establish prompt framework
 
+**Dimensions**
+1d - color
+
 **Concepts**
 - - -
  
