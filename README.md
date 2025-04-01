@@ -1,20 +1,21 @@
-Dichotomy
-- -
 - - -
+Dichotomy |
+- - |
+- - - |
 Absence vs existence
-- . :
-- - -
+- . : |
+- - - |
 Traversing dimensions
-- ' " "'
-- "' " '
-- - -
+- ' " "' |
+- "' " ' |
+- - - |
 **Evolution states**
-- 
-- o
-- on
-- on o
-- on of
-- on off
+-        |
+- o      |
+- on     |
+- on o   |
+- on of  |
+- on off |
 - - -
 **Loop ad infinitum**
 - (Time)
