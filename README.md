@@ -7,7 +7,7 @@
 
 - ' " "' | Up |
 - "' " ' | Down |
-- - -    |
+- - -    | Threat? |
 - - -
 **Evolution states**
 -        |
