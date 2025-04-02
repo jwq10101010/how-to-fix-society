@@ -1,6 +1,3 @@
-**TODO**
-Establish prompt framework
-
 **Dimensions**
 1d - color
 2d - line
