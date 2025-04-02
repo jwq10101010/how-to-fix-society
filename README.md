@@ -26,7 +26,7 @@ Establish prompt framework
 - on of  |
 - on off |
 - - -
-**Loop ad infinitum**
+**Loop ad infinitum** we have 5 basic dimensions
 - (Time) |
 - (Time, Space) |
 - (Time, Space, Anchor) |
