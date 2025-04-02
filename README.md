@@ -9,7 +9,7 @@ Establish prompt framework
 **Concepts**
 - - -
  
-- - | Dich**o**t**o**my of good and bad|
+- - | Dich**o**t**o**my of g**oo**d and bad|
 
 - . : | Absence vs **exist**ence |
 
