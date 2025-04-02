@@ -1,8 +1,8 @@
 **Dimensions**
 
-1d - color
-2d - line
-3d - 
+- 1d - color
+- 2d - line
+- 3d - 
 
 **Concepts**
 - - -
