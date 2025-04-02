@@ -6,7 +6,6 @@
 - 3d - 
 - - -
 **Concepts**
-- - -
  
 - - | Dich**o**t**o**my of g**oo**d and bad|
 
