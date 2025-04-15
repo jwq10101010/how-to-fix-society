@@ -1,9 +1,28 @@
 - - -
 **Dimensions**
 
-- 1d - color
-- 2d - line
-- 3d - 
+*Example*
+https://phys.org/news/2014-12-universe-dimensions.html
+
+- 1d - length
+- 2d - height
+- 3d - depth
+- 4d - time
+- 5d - timeline #
+- 6d - plane of possible worlds # (anchor point)
+- 7d - timeline #
+- 8d - timeline history #
+- 9d - timeline history comparison #
+- 10d - imagination #
+- - -
+**Loop ad infinitum** we have 5 basic dimensions
+- (Time) |
+- (Time, Space) |
+- (Time, Space, Anchor) |
+- (Time, Space, Anchor, Universe) |
+- (Time, Space, Anchor, Universe, Server) |
+- (Time, Space, Anchor, Universe, Server, Server-1-Time) |
+- Anchor = PITAS = Point in time and space like rewinding and fast-forwarding a movie |
 - - -
 **Concepts**
  
@@ -24,15 +43,7 @@
 - on of  |
 - on off |
 - - -
-**Loop ad infinitum** we have 5 basic dimensions
-- (Time) |
-- (Time, Space) |
-- (Time, Space, Anchor) |
-- (Time, Space, Anchor, Universe) |
-- (Time, Space, Anchor, Universe, Server) |
-- (Time, Space, Anchor, Universe, Server, Server-1-Time) |
-- Anchor = PITAS = Point in time and space like rewinding and fast-forwarding a movie |
-- - -
+
 
 # How to fix society
 A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
