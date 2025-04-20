@@ -9,10 +9,10 @@ https://phys.org/news/2014-12-universe-dimensions.html
 - 3d - depth
 - 4d - time
 - 5d - timeline #
-- 6d - plane of possible worlds # (anchor point)
-- 7d - timeline #
-- 8d - timeline history #
-- 9d - timeline history comparison #
+- 6d - plane of possible worlds # (anchor point or point of reference)
+- 7d - server instance #
+- 8d - server instance # at point in time (server anchor point)
+- 9d - server instance # at point in time and space
 - 10d - imagination #
 - - -
 **Loop ad infinitum** we have 5 basic dimensions
