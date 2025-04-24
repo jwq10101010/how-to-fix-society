@@ -18,6 +18,12 @@ The [Recurse Center](https://www.recurse.com/) is a self-directed educational re
 * Middle 50 percent of SAT scores: [between 3730 and 4280](https://cooper.edu/engineering/notebook)
 * High school grade average (between 93 and 98 for engineering): [93-98](https://cooper.edu/admissions/news/2017-profile-first-year-students)
 
+### School of Moral Ambition
+**From the blurb**
+We’re taking on the world’s most pressing problems, from climate change to tax evasion, from factory farming to the next pandemic.
+
+https://www.moralambition.org
+
 ## Wikipedia articles
 
 **Software project management**
