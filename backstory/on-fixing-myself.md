@@ -8,3 +8,9 @@
 - Manage expectations and continue along positive trajectory (positive compounding)
 - Breakthrough moments can happen at any time (plateau of latent potential)
 - Establish **atomic habits** which are the small repeatable 1% habits that lead to fulfilling goals/results
+<br/>
+*Chapter 2*
+- 3 layers of behavior change: identity, processes, and outcomes
+- identity = beliefs, world view, self image, judgments on self and others
+- processes = habits and systems
+- outcomes = results/goals
