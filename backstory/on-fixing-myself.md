@@ -20,7 +20,7 @@
 - values, principles, and identity should drive feedback loop of habits and identity
 - focus on becoming a certain person, not on outcomes
 
-*chapter 3*
+*Chapter 3*
 - habits are mental shortcuts based on experience
 - habits create freedom due to reduced cognitive load in doing them (brain automatically knows how to do the tasks)
 - building a habit: cue, craving, response, reward
