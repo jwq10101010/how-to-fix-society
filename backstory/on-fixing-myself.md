@@ -7,3 +7,4 @@
 - Persevere through the routines and focus on the journey
 - Manage expectations and continue along positive trajectory (positive compounding)
 - Breakthrough moments can happen at any time (plateau of latent potential)
+- Establish **atomic habits** which are the small repeatable 1% habits that lead to fulfilling goals/results
