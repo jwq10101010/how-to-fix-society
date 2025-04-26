@@ -17,3 +17,5 @@
 - when habits become part of identity, more likely to stick to them (e.g. instead of wanting to read books, identify as a reader)
 - when habits conflict with identity, have to learn to detach from old forms of identity to become the best version of oneself
 - identity = repeated beingness, embodiment of habits and actions
+- values, principles, and identity should drive feedback loop of habits and identity
+- focus on becoming a certain person, not on outcomes
