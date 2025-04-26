@@ -19,3 +19,23 @@
 - identity = repeated beingness, embodiment of habits and actions
 - values, principles, and identity should drive feedback loop of habits and identity
 - focus on becoming a certain person, not on outcomes
+
+*chapter 3*
+- habits are mental shortcuts based on experience
+- habits create freedom due to reduced cognitive load in doing them (brain automatically knows how to do the tasks)
+- building a habit: cue, craving, response, reward
+- cue triggers brain to initiate behavior that could lead to a reward
+- craving is motivational force, change in state (usually positive change)
+- response is actual habit performed (thought or action)
+- problem phase (cue, craving)
+- solution phase (response, reward)
+- good habit (make it ___ )
+- - cue = obvious
+- - craving = attractive
+- - response = easy
+- - reward = satisfying
+- bad habit (make it ___ )
+- - cue = invisible
+- - craving = unattractive
+- - response = difficult
+- - reward = unsatisfying
