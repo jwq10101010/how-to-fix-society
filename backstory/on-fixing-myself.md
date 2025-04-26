@@ -14,3 +14,4 @@
 - identity = beliefs, world view, self image, judgments on self and others
 - processes = habits and systems
 - outcomes = results/goals
+- when habits become part of identity, more likely to stick to them (e.g. instead of wanting to read books, identify as a reader)
