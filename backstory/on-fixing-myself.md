@@ -39,3 +39,11 @@
 - - craving = unattractive
 - - response = difficult
 - - reward = unsatisfying
+ 
+*Chapter 4*
+- human brain = prediction machine
+- have subconscious self handling automated tasks such as hunger, breathing, and heartbeats
+- habits come from non conscious reactions to cues
+- begin behavior changes with awareness, make the unconscious conscious
+- habits scorecard: make list of daily habits and score each item (+ net positive for desired identity, - net negative, = neutral)
+- use pointing and calling system for awareness like observing yourself from an outside perspective and describing the action and consequence (e.g. this person is eating a cookie and would gain weight from eating it)
