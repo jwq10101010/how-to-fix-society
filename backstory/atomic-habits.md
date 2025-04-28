@@ -47,3 +47,8 @@
 - begin behavior changes with awareness, make the unconscious conscious
 - habits scorecard: make list of daily habits and score each item (+ net positive for desired identity, - net negative, = neutral)
 - use pointing and calling system for awareness like observing yourself from an outside perspective and describing the action and consequence (e.g. this person is eating a cookie and would gain weight from eating it)
+
+*Chapter 5*
+- Implementation Intention: I will [behavior] at [time] in [location]
+- Habit Stacking: Diderot Effect = one change spurs on another change like buying a robe leads to buying coordinating outfit
+- Stack onto existing habit, select the right cue that works in existing time and place
