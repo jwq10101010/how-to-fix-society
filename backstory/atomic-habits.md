@@ -52,3 +52,12 @@
 - Implementation Intention: I will [behavior] at [time] in [location]
 - Habit Stacking: Diderot Effect = one change spurs on another change like buying a robe leads to buying coordinating outfit
 - Stack onto existing habit, select the right cue that works in existing time and place
+
+*Chapter 6*
+- Can change behaviors by influencing environment
+- Sales up when product at eye level or end of aisle
+- To not forget things, put things near where you frequent, such as prominently on kitchen table or by the front door
+- link habits with context
+- example: bedroom is only for sleep, for insomniacs, get outside bedroom area until feel sleepy, then get into bed (establishes bedroom = sleep in brain)
+- easier establish new habit with new context
+- stable environment where everything has a place and purpose = env where habits easily form
